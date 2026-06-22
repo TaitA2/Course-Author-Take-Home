@@ -57,7 +57,7 @@ Using list comprehension this way can be good for readability and organization, 
 
 
 <details open>
-<summary><h1>Assignment</h1></summary>
+<summary><h2>Assignment</h2></summary>
 Let's work on Fantasy Quest's Bestiary! Our players need to be able to view the Bestiary one alphabetical page at a time.
 <br>
 
@@ -75,7 +75,7 @@ Example:
 </details>
 <details>
 
-<summary><h1>Tip</h1></summary>
+<summary><h2>Tip</h2></summary>
 
 Use the [str.startswith() method](https://python-reference.readthedocs.io/en/latest/docs/str/startswith.html) to check if a creature has the correct first_letter.
 
