@@ -60,7 +60,7 @@ while item != "end":
 ```
 
 <details open>
-<summary><h1>Assignment</h1></summary>
+<summary><h2>Assignment</h2></summary>
 Let's work on the Fantasy Quest spellbook. Our players should be able to see the spells they have unlocked in a numbered list.
 
 Example:
@@ -74,8 +74,13 @@ Example:
 Using the enumerate() function, return the player's spell list numbered starting from 1.
 
 </details>
+<details open>
+<summary><h2>Note</h2></summary>
+The enumerate object gets consumed when you access the elements either by iterating or using next().
+Sometimes it helps to think of it less like a list of pairs, and more like a pez dispenser of pairs.
+</details>
 
 <details>
-<summary><h1>Tip</h1></summary>
+<summary><h2>Tip</h2></summary>
 Use the 'start' parameter in your enumerate function.
 </details>
