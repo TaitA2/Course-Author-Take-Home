@@ -1,6 +1,6 @@
 # List Comprehension
 List comprehension is basically just a shortcut for creating and populating a list all in one line.
-It doesn't really add any *new* capabilities to your arsenal as a programmer (Probably why it's not already a lesson on Boot.Dev!), but it can be a really useful.
+It doesn't really add any *new* capabilities to your arsenal as a programmer (Probably why it's not already a lesson on Boot.Dev!), but it can be really useful.
 
 Besides, python programmers *love* to use it, so you'll definitely need to know how it works to understand other people's code and be a better team asset overall.
 
