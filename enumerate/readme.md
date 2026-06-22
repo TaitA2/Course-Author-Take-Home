@@ -84,3 +84,12 @@ Sometimes it helps to think of it less like a list of pairs, and more like a pez
 <summary><h2>Tip</h2></summary>
 Use the 'start' parameter in your enumerate function.
 </details>
+
+<summary><h1>Multiple Choice Question</h1></summary>
+
+## Syntax
+Which is the correct syntax to get the next pair from an enumerate object?
+1. `e.next()` # Incorrect, this syntax was for Python 2.
+2. `next(e)` # Correct!
+
+</details>
